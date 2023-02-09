@@ -1,10 +1,9 @@
 # python
-Python scripts and projects
+Python code and projects
 
-
-| Project Name                                                                               | Notes        
+| File Name                                                                               | Notes        
 | ------------------------------------------------------------------------------------------ |:-------------------------------------:|
-| [Music Sales Project](https://github.com/djs-djs/sql/blob/main/Music%20Sales%20Project.sql)|                                       |
+| [Class Assignments](https://github.com/donsmithsf/python/tree/main/class%20assignments)|                                       |
 |                                                                                            |      |
 |                                                                                            |      |
 |                                                                                            |      |
